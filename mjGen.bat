@@ -1,0 +1,1 @@
+..\bx\tools\bin\windows\genie.exe --with-examples --with-tools --platform=x64 --with-windows=10.0.19041.0 vs2019
