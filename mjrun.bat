@@ -7,5 +7,6 @@ REM set fname="example-03-raymarchRelease"
 REM set fname="example-04-meshRelease"
 REM set fname="example-05-instancingRelease"
 REM set fname="example-06-bumpRelease"
-set fname="example-07-callbackRelease"
+REM set fname="example-07-callbackRelease"
+set fname="texturevRelease"
 start ..\..\.build\win64_vs2019\bin\%fname%
